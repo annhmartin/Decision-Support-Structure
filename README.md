@@ -18,6 +18,4 @@ Project Planning Presentation November 11, 2025
 After the presentation, both I and the rest of the class will ask questions related to your project. Finally, I will provide my feedback on whether the proposed project is sufficient or if further improvements are needed. 
 
 ## Project ideas
-- Metrics about countries to better predict future changes
-- Some sort of project about the environment
-- ...?
+- How to be a top streamer on Twitch https://www.kaggle.com/datasets/aayushmishra1512/twitchdata
