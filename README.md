@@ -19,3 +19,10 @@ After the presentation, both I and the rest of the class will ask questions rela
 
 ## Project ideas
 - How to be a top streamer on Twitch https://www.kaggle.com/datasets/aayushmishra1512/twitchdata
+- https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch
+- https://www.kaggle.com/datasets/rajgupta2019/first-practise
+- https://twitchtracker.com/
+- https://www.twitchmetrics.net/
+- https://safety.twitch.tv/s/article/Transparency-Reports?language=en_US
+- https://sullygnome.com/
+- 
