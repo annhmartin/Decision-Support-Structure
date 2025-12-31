@@ -1,5 +1,8 @@
 # Decision-Support-Structure
 
+## Colab Notebook
+https://colab.research.google.com/drive/1_OEZMJfzYIIkQdeV03A-MepivhGC0_mg?usp=sharing
+
 Project Planning Presentation November 11, 2025
 
 Link to Presentation
