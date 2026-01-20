@@ -1,4 +1,9 @@
-# Decision-Support-Structure
+# Decision-Support-Structure - How to Achieve Success by Streaming on Twitch​
+
+- Ismail Cem Bayramoglu​
+- Annette Martin​
+- Kunanon Chaojaroenrat​
+- Semen Petrov​
 
 ## Files
 ### Colab Notebook
